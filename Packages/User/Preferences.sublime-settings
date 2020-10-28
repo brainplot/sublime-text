@@ -1,0 +1,26 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_cycle": true,
+	"auto_complete_delay": 64,
+	"auto_complete_with_fields": true,
+	"caret_style": "phase",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Rust",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"mini_diff": "auto",
+	"monokai_pro_highlight_open_folders": true,
+	"monokai_pro_minimal": true,
+	"monokai_pro_small_scrollbar": true,
+	"move_to_limit_on_up_down": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"trim_trailing_white_space_on_save": true
+}
