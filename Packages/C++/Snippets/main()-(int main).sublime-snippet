@@ -1,0 +1,9 @@
+<snippet>
+	<description>main()</description>
+	<content><![CDATA[main(int const argc, char const${TM_C_POINTER:** }const argv)
+{
+	${0:/* code */}
+}]]></content>
+	<tabTrigger>main</tabTrigger>
+	<scope>(source.c | source.objc | source.c++ | source.objc++) &amp; entity.name.function</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// clang-format on
+]]></content>
+	<description>Enable clang-format</description>
+	<scope>source.c,source.c++</scope>
+	<tabTrigger>cfon</tabTrigger>
+</snippet>

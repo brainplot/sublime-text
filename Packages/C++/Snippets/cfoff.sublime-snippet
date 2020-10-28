@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// clang-format off
+]]></content>
+	<description>Disable clang-format</description>
+	<scope>source.c,source.c++</scope>
+	<tabTrigger>cfoff</tabTrigger>
+</snippet>

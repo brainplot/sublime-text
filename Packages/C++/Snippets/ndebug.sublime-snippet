@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+#ifndef NDEBUG
+	${0:/* code */}
+#endif
+]]></content>
+	<scope>source.c,source.c++</scope>
+	<tabTrigger>debug</tabTrigger>
+	<description>(#ifndef NDEBUG...)</description>
+</snippet>

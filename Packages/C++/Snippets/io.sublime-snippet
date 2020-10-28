@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+std::${1:cout} << ${2:expression}${3: << expression}${4: << '\n'};$0
+]]></content>
+	<description>(cerr,cin,cout)</description>
+	<tabTrigger>io</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

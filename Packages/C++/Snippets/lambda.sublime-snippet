@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+[${1}](${2}) ${5:mutable} {
+	${4:return} ${3:expression};
+}
+]]></content>
+	<description>( λ )</description>
+	<scope>source.c,source.c++</scope>
+	<tabTrigger>lambda</tabTrigger>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+for ($1 : $2) {
+	$0
+}]]></content>
+	<description>For-range loop</description>
+	<scope>source.c++</scope>
+	<tabTrigger>forr</tabTrigger>
+</snippet>

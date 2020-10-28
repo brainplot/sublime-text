@@ -1,0 +1,6 @@
+<snippet>
+	<description>$1.cbegin(), $1.cend()</description>
+	<content><![CDATA[${1:v}${1/^.*?(-)?(>)?$/(?2::(?1:>:.))/}cbegin(), ${1:v}${1/^.*?(-)?(>)?$/(?2::(?1:>:.))/}cend()]]></content>
+	<tabTrigger>cbegincend</tabTrigger>
+	<scope>source.c++, source.objc++</scope>
+</snippet>
