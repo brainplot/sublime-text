@@ -4,6 +4,7 @@
 	"auto_complete_delay": 64,
 	"auto_complete_with_fields": true,
 	"caret_style": "phase",
+	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"highlight_modified_tabs": true,
@@ -21,5 +22,6 @@
 	"move_to_limit_on_up_down": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
 	"trim_trailing_white_space_on_save": true
 }
