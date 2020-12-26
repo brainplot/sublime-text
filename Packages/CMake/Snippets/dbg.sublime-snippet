@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+message(NOTICE "[\${CMAKE_CURRENT_LIST_FILE}] $1 = \${$1}")
+]]></content>
+	<tabTrigger>dbg</tabTrigger>
+	<scope>source.cmake</scope>
+</snippet>
