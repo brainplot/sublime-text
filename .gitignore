@@ -1,4 +1,15 @@
+Backup/
 Local/
 Installed\ Packages/
 Cache/
 Index/
+Packages/User/Package\ Control.user-ca-bundle
+Packages/markupsafe/
+Packages/mdpopups/
+Packages/pygments/
+Packages/pymdownx/
+Packages/python-jinja2/
+Packages/python-markdown/
+Packages/pyyaml/
+Packages/shellenv/
+Packages/zzz\ A\ File\ Icon\ zzz/
