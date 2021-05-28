@@ -7,6 +7,14 @@
 	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"target"
+	],
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
