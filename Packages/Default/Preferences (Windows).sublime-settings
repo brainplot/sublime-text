@@ -1,4 +1,5 @@
 {
 	"font_face": "JetBrains Mono",
 	"font_size": 12,
+	"hardware_acceleration": "opengl",
 }
