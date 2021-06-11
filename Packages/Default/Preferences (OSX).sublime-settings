@@ -1,4 +1,5 @@
 {
 	"font_face": "SF Mono",
-	"font_size": 16
+	"font_size": 16,
+	"show_tab_close_buttons_on_left": true,
 }
