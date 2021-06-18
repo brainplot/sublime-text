@@ -15,6 +15,7 @@
 		"CVS",
 		"target"
 	],
+	"font_face": "Rec Mono Linear",
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
