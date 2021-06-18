@@ -19,7 +19,7 @@
 	"ignored_packages":
 	[
 		"Rust",
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options": ["draw_normal", "draw_active"],
 	"line_padding_bottom": 1,
@@ -32,5 +32,5 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
 }
